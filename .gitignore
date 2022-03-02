@@ -1,0 +1,20 @@
+# ignore bin and builds
+bin/
+# ignore objects from builds
+obj/
+# ignore memory mapped files and locks
+shared/
+# ignore codeblock bits
+#*.cbp
+*.layout
+#*.depend
+# ignore misc files
+*.ttf
+*.png
+*.a
+*.so
+*.o
+*.xml
+*.out*
+*.tps
+.DS_Store
